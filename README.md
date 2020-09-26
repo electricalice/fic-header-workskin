@@ -1,5 +1,7 @@
 This script will fit the ao3 fic header inside your own fanfic. It's fun to use for meta fanfictions if your character likes to write fanfic on the side.
 
+[live example here](https://archiveofourown.org/works/26662207)
+
 The links are functioning if you want them to function (you'll need to add all the urls yourself) and **they will make the proper animation when you hover over them**. 
 
 It is quite easy to achieve. It requires 2 parts: HTML code and a workskin in css. 
