@@ -1,0 +1,157 @@
+
+#workskin .fanfic-ao3 {
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "GNU Unifont", Verdana, Helvetica, sans-serif;
+  font-size: .875em;
+  line-height: 1.286;
+  display: block;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#workskin .fanfic-ao3 a {
+  color: black;
+  text-decoration: none;
+}
+
+#workskin .fanfic-ao3 .bottoni a {
+  display: block;
+  float: right;
+  background: #eee;
+  color: #444;
+  line-height: 1.286;
+  margin-left: 10px;
+  margin-bottom: 7px;
+  width: auto;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "GNU Unifont", Verdana, Helvetica, sans-serif;
+  vertical-align: middle;
+  text-decoration: none;
+  padding: .25em .75em;
+  border: 1px solid #bbb;
+  border-bottom: 1px solid #aaa;
+  background-image: linear-gradient(#fff 2%, #ddd 95%, #bbb 100%);
+  border-radius: .25em;
+  box-shadow: none;
+}
+
+#workskin .fanfic-ao3 .bottoni a:hover {
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "GNU Unifont", Verdana, Helvetica, sans-serif;
+  color: #900;
+  border-top: 1px solid #999;
+  border-left: 1px solid #999;
+  box-shadow: inset 2px 2px 2px #bbb;
+}
+
+#workskin .fanfic-ao3 .lavoro {
+  display: block;
+  margin-top: 40px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#workskin .fanfic-ao3 .lavoro h2.titolo {
+  text-align: center;
+  font-family: Georgia, serif;
+  font-weight: 400;
+  font-size: 2.2em;
+  line-height: 1;
+  margin: .429em 0;
+}
+
+#workskin .fanfic-ao3 .lavoro h3.autore {
+  text-align: center;
+  text-decoration: none;
+  font-family: Georgia, serif;
+  font-weight: 400;
+  font-size: 1.4em;
+  margin: .229em 0;
+  border-bottom: none;
+}
+
+#workskin .fanfic-ao3 .lavoro h3.titolino-riassunto {
+  border-bottom: 1px solid;
+  font-family: Georgia, serif;
+  font-weight: 400;
+  margin: .537em 0;
+  font-size: 1.4em;
+}
+
+#workskin .fanfic-ao3 .lavoro .riassunto {
+  margin: .64em;
+  font-size: 1.12em;
+}
+
+#workskin .fanfic-ao3 .lavoro .riassunto p {
+  line-height: 1.5;
+  padding: 0;
+}
+
+#workskin .fanfic-ao3 .menu-tags {
+  background-color: #fff;
+  display: inline-block;
+  box-shadow: 1px 1px 5px #aaa;
+  width: 100%;
+  color: black;
+}
+
+#workskin .fanfic-ao3 .menu-tags .group {
+  border: 1px solid #ccc;
+  background-color: #fff;
+  color: #000;
+  clear: right;
+  padding: 1.286em .75em;
+  position: relative;
+  overflow: hidden;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+#workskin .fanfic-ao3 .menu-tags .group .cwarning {
+  font-weight: bold;
+}
+
+#workskin .fanfic-ao3 .menu-tags .group .cwarning a {
+  border-bottom: 1px solid;
+}
+
+#workskin .fanfic-ao3 .menu-tags .group dt {
+  min-width: 10.5em;
+  width: 25%;
+  float: left;
+  clear: left;
+}
+
+#workskin .fanfic-ao3 .menu-tags .group dd {
+  width: 72.5%;
+  float: left;
+  margin: 0 0 .643em;
+  margin-inline-start: 0;
+}
+
+#workskin .fanfic-ao3 .menu-tags .group dd span {
+  margin-right: 10px;
+}
+
+#workskin .fanfic-ao3 .menu-tags .group dd .cwarning a {
+  border-bottom: 1px dotted;
+}
+
+#workskin .fanfic-ao3 .menu-tags .group dd a {
+  color: #111;
+  line-height: 1.5;
+  text-decoration: none;
+  padding: 0;
+  border-bottom: 1px dotted;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "GNU Unifont", Verdana, Helvetica, sans-serif;
+}
+
+#workskin .fanfic-ao3 .menu-tags .group dd a:hover {
+  background-color: #900;
+  color: white;
+  line-height: 1.5;
+  text-decoration: none;
+  padding: 0;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "GNU Unifont", Verdana, Helvetica, sans-serif;
+  border-bottom: 1px dotted;
+}
